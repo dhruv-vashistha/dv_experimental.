@@ -1,5 +1,4 @@
-# dv_experimental.
-for learning purpose
+
 
 import java.util.Scanner;
 public class dv_5_input_calculator {
